@@ -1,1 +1,1 @@
-# 3D-Book (CG-Model)
+# 3D-Book [CG-Model]
